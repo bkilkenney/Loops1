@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops1\Loops1\bin\Debug\Loops1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops1\Loops1\bin\Debug\Loops1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops1\Loops1\bin\Debug\Loops1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops1\Loops1\obj\Debug\Loops1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops1\Loops1\obj\Debug\Loops1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops1\Loops1\obj\Debug\Loops1.pdb
